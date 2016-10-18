@@ -8,7 +8,8 @@ public class Main {
 
         //Add a second line of code to the program
 
-        System.out.print("How are you?");
-
+        System.out.println("How are you?");
+        Date.java();
+        Time.java();
     }
 }
