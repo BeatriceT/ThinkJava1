@@ -11,5 +11,6 @@ public class Main {
         System.out.println("How are you?");
         Date.java();
         Time.java();
+        Hello.world();
     }
 }

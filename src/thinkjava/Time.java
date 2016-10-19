@@ -50,7 +50,7 @@ package thinkjava;
         System.out.print(minute - startedMinutes);
         System.out.print(" minutes and ");
         System.out.print(second - startedSeconds);
-        System.out.print(" seconds from the start of the exercise");
+        System.out.println(" seconds from the start of the exercise");
 
 
 
